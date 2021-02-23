@@ -7,8 +7,3 @@ app2
 
 [database_servers]
 appdb1
-
-[internal:children]
-load_balancers
-app_servers
-database_servers
